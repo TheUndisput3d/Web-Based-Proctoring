@@ -31,7 +31,7 @@ for twenty-four scenes in all. The actual values of pitch, yaw, and Along with t
 ![Image](https://github.com/user-attachments/assets/e4a46357-75f1-4509-9789-e1728e2ef379)
 
 ### Object Detection
-OpenCV’s YOLOv7 object detector to identify instances of banned items such as mobile phones, laptops, TVs, and books.
+OpenCV’s YOLO object detector to identify instances of banned items such as mobile phones, laptops, TVs, and books.
 ![Image](https://github.com/user-attachments/assets/5f033646-dd9c-4340-80c8-d810f1496de9)
 
 ![Image](https://github.com/user-attachments/assets/5f54e6bb-80ea-4ee7-b1e2-208e6e118fdf)
